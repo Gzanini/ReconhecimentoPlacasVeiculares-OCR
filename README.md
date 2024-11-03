@@ -13,3 +13,8 @@ Para uma descrição detalhada sobre a metodologia e os desafios enfrentados dur
 <p align="center">
   <img src="artigo/img1-saida-final.png" height="auto" width="700" alt="Exemplo de resultado do reconhecimento">
 </p>
+
+## Autores
+
+- **Guilherme Zanini** - [gzaninis@edu.unisinos.br](mailto:gzaninis@edu.unisinos.br)
+- **Gabriel Strada** - [gstrada@edu.unisinos.br](mailto:gstrada@edu.unisinos.br)
