@@ -8,7 +8,7 @@ O objetivo deste projeto é desenvolver uma solução automatizada para reconhec
 
 ## Link para o Artigo
 
-Para uma descrição detalhada sobre a metodologia e os desafios enfrentados durante o desenvolvimento, consulte o [artigo completo](https://github.com/Gabriellimmaa/reconhecimento-e-leitura-placa-carro-ptBR/blob/main/artigo/Artigo.pdf).
+Para uma descrição detalhada sobre a metodologia e os desafios enfrentados durante o desenvolvimento, consulte o [artigo completo](https://github.com/Gzanini/ReconhecimentoPlacasVeiculares-OCR/blob/d721abd7f7a0fc9e8e58858dd7929094184a7d09/artigo/Identifica%C3%A7%C3%A3o_de_Placas_de_Ve%C3%ADculos_com_Processamento_de_Imagem_e_OCR.pdf).
 
 <p align="center">
   <img src="artigo/img1-saida-final.png" height="auto" width="700" alt="Exemplo de resultado do reconhecimento">
